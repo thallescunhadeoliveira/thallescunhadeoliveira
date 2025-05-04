@@ -11,7 +11,7 @@ Currently, I'm stepping into the world of **Artificial Intelligence**, aiming to
 - **AI & LLMs**: Getting started with OpenAI, chatbots, and LLM-powered automation
 
 ## 💡 Featured Projects
-✅ [**Regions Affected by Flooding in Porto Alegre**](https://github.com/thallescunhadeoliveira/Levantamento-de-Localiza-es-Afetadas-pelas-Enchentes-POA-) (Python, Power BI, Geographic Coordinates)<br>
+✅ [**Areas Affected by Flooding in Porto Alegre**](https://github.com/thallescunhadeoliveira/Levantamento-de-Localiza-es-Afetadas-pelas-Enchentes-POA-) (Python, Power BI, Geographic Coordinates)<br>
 📌 *Coming soon*: [**Chatbot Integrated to WhatsApp with Artificial Intelligence**](https://github.com/thallescunhadeoliveira/ChatBot-Integrado-ao-WhatsApp) (Python, LLM, API)
 
 ---
