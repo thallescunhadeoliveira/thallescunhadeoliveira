@@ -12,7 +12,8 @@ Currently, I'm stepping into the world of **Artificial Intelligence**, aiming to
 
 ## 💡 Featured Projects
 
-📌 *Coming soon*: WhatsApp chatbot built with Python, FastAPI, and LLMs.
+📌 *Coming soon*: [**Chatbot Integrated to WhatsApp with Artificial Intelligence**](https://github.com/thallescunhadeoliveira/ChatBot-Integrado-ao-WhatsApp)
+
 
 ---
 
