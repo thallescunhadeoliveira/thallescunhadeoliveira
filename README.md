@@ -1,23 +1,25 @@
-# 👋 Olá! Eu sou o Thalles
+# 👋 Hi! I'm Thalles
 
-Sou formado em **Psicologia pela UFSCar** e em **Banco de Dados pela Estácio**. Desde 2022, atuo como **Analista de Dados na Azos**, onde trabalho com automações, visualização de dados e suporte à tomada de decisão usando dados.
-Atualmente, estou entrnado para o universo da **Inteligência Artificial**, buscando unir minha base analítica com as novas tecnologias de modelos de linguagem e automação inteligente.
+I hold a degree in **Psychology from UFSCar** and a degree in **Database Management from Estácio**. Since 2022, I've been working as a **Data Analyst at Azos**, where I focus on automation, data visualization, and supporting decision-making through data insights.
 
-## 🚀 Habilidades técnicas
+Currently, I'm stepping into the world of **Artificial Intelligence**, aiming to combine my analytical background with cutting-edge technologies like language models and intelligent automation.
 
-- **Linguagens**: Python, VBA, Apps Script, SQL
-- **Ferramentas de dados**: Power BI, Excel, Google Sheets
-- **IA e LLMs**: começando com OpenAI, chatbots e automações com LLMs
+## 🚀 Technical Skills
 
-## 💡 Projetos em destaque
+- **Languages**: Python, VBA, Apps Script, SQL  
+- **Data Tools**: Power BI, Excel, Google Sheets  
+- **AI & LLMs**: Getting started with OpenAI, chatbots, and LLM-powered automation
 
-📌 *Em breve*: Chatbot via WhatsApp usando Python, FastAPI e LLMs.
+## 💡 Featured Projects
+
+📌 *Coming soon*: WhatsApp chatbot built with Python, FastAPI, and LLMs.
 
 ---
 
-Sinta-se à vontade para se conectar por aqui 👇
+Feel free to connect with me here 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/thalles-cunha-de-oliveira)
+
 
 
 
