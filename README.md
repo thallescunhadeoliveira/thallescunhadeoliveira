@@ -2,13 +2,13 @@
 
 I hold a degree in **Psychology from UFSCar** and a degree in **Database Management from Estácio**. Since 2022, I've been working as a **Data Analyst at Azos**, where I focus on automation, data visualization, and supporting decision-making through data insights.
 
-Currently, I'm stepping into the world of **Artificial Intelligence**, aiming to combine my analytical background with cutting-edge technologies like language models and intelligent automation.
+Currently, I'm expanding my expertise into Machine Learning and Artificial Intelligence, aiming to transition into Data Science and apply advanced statistical and computational techniques to solve real-world business problems.
 
 ## 🚀 Technical Skills
 
 - **Languages**: Python, VBA, Apps Script, SQL  
 - **Data Tools**: Power BI, Excel, Google Sheets  
-- **AI & LLMs**: Getting started with OpenAI, chatbots, and LLM-powered automation
+- **ML & AI**: Building predictive models, supervised/unsupervised learning, and exploring applications of intelligent automation
 
 ## 💡 Featured Projects
 ✅ [**s.mart.ai - Chat with your purchase history**](https://github.com/thallescunhadeoliveira/s.mart.ai) (Python, LLM, OCR, API)<br>
