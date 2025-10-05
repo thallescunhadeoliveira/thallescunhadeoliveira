@@ -20,7 +20,7 @@ Uses machine learning and natural language processing to interact with purchase 
 ### 🗂 Data Collection
 [**Web Scraping SUSEP - Insurance Brokers**](https://github.com/thallescunhadeoliveira/Web-Scraping-Corretores-SUSEP)  
 Collects public data of insurance brokers registered at SUSEP, including CNPJ, company name, SUSEP number, registration status, and products.  
-**Tools:** Python, Requests, Pandas, PostgreSQL, Excel
+**Tools:** Python, Requests, Pandas, CSV, Excel
 
 ### 🌍 Geoprocessing / GIS
 [**Areas Affected by Flooding in Porto Alegre**](https://github.com/thallescunhadeoliveira/Levantamento-de-Localiza-es-Afetadas-pelas-Enchentes-POA-)  
