@@ -27,6 +27,11 @@ Collects public data of insurance brokers registered at SUSEP, including CNPJ, c
 Maps and analyzes flood-affected areas using geographic coordinates.  
 **Tools:** Python, Power BI, Geospatial Data, GIS
 
+### 📊 Exploratory Data Analysis (EDA)
+[**Consumer Behavior Analysis - Cigarette Consumption**](https://github.com/thallescunhadeoliveira/Analise-de-Dados-Exploratoria-Sobre-Comportamento-do-Consumidor)  
+Exploratory analysis on consumer behavior related to cigarette usage, using data from psychology research (TCC). Insights on consumption patterns and trends.  
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
 
 ---
 
