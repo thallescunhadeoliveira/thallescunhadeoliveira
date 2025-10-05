@@ -4,7 +4,7 @@ I hold a degree in **Psychology from UFSCar** and a degree in **Database Managem
 
 Currently, I'm expanding my expertise into Machine Learning and Artificial Intelligence, aiming to transition into Data Science and apply advanced statistical and computational techniques to solve real-world business problems.
 
-## 💡 Featured Projects
+## Featured Projects
 
 ### 🤖 AI & Machine Learning
 [**s.mart.ai - Chat with your purchase history**](https://github.com/thallescunhadeoliveira/s.mart.ai)  
