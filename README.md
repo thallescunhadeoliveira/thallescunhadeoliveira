@@ -9,7 +9,7 @@ Currently, I'm expanding my expertise into Machine Learning and Artificial Intel
 
 ### 🤖 Artificial Intelligence
 [**s.mart.ai - Chat with your purchase history**](https://github.com/thallescunhadeoliveira/s.mart.ai)  
-Uses machine learning and natural language processing to interact with purchase data.  
+Uses artificial intelligence and natural language processing to interact with purchase data.  
 **Tools:** Python, LLM, NLP, OCR
 
 ### 🗂 Data Collection
