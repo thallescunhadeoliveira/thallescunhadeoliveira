@@ -24,7 +24,7 @@ Maps and analyzes flood-affected areas using geographic coordinates.
 
 ### 📊 Exploratory Data Analysis (EDA)
 [**Consumer Behavior Analysis - Cigarette Consumption**](https://github.com/thallescunhadeoliveira/Analise-de-Dados-Exploratoria-Sobre-Comportamento-do-Consumidor)  
-Exploratory analysis on consumer behavior related to cigarette usage, using data from psychology research (TCC). Insights on consumption patterns and trends.  
+Exploratory analysis on consumer behavior related to cigarette usage, using data from psychology research (Undergraduate Thesis). Insights on consumption patterns and trends.  
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 
