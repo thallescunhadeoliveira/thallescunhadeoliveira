@@ -8,9 +8,9 @@ Currently, I'm expanding my expertise into Machine Learning and Artificial Intel
 ## Featured Projects
 
 ### ⚙️ Machine Learning
-[**Previsão de Encerramento de CNPJs com Dados Públicos**](https://github.com/thallescunhadeoliveira/Previsao-de-Encerramento-de-CNPJ-com-Dados-Publicos)  
-Projeto em progresso de **classificação em Machine Learning** para prever encerramento de CNPJs nos dois primeiros anos, analisando padrões de risco no Brasil com dados públicos da Receita Federal, IBGE e outras fontes.
-**Status:** Em desenvolvimento  
+[**Prediction of CNPJ Closures with Public Data**](https://github.com/thallescunhadeoliveira/Previsao-de-Encerramento-de-CNPJ-com-Dados-Publicos)  
+Ongoing project using **Machine Learning classification** to predict CNPJ closures within the first two years, analyzing risk patterns in Brazil with public data from the Federal Revenue Service, IBGE, and other sources.  
+**Status:** In progress  
 **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook, Data Visualization
 
 ### 🤖 Artificial Intelligence
