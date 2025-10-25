@@ -7,6 +7,12 @@ Currently, I'm expanding my expertise into Machine Learning and Artificial Intel
 
 ## Featured Projects
 
+### ⚙️ Machine Learning
+[**Previsão de Encerramento de CNPJs com Dados Públicos**](https://github.com/thallescunhadeoliveira/Previsao-de-Encerramento-de-CNPJ-com-Dados-Publicos)  
+Projeto em progresso de **classificação em Machine Learning** para prever encerramento de CNPJs nos dois primeiros anos, analisando padrões de risco no Brasil com dados públicos da Receita Federal, IBGE e outras fontes.
+**Status:** Em desenvolvimento  
+**Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook, Data Visualization
+
 ### 🤖 Artificial Intelligence
 [**s.mart.ai - Chat with your purchase history**](https://github.com/thallescunhadeoliveira/s.mart.ai)  
 Uses artificial intelligence and natural language processing to interact with purchase data.  
@@ -36,20 +42,3 @@ Feel free to connect with me here 👇
 
 
 
-
-<!--
-- ### Hi there 👋
-
-**thallescunhadeoliveira/thallescunhadeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
