@@ -7,10 +7,6 @@ Currently, I'm expanding my expertise into Machine Learning and Artificial Intel
 
 ## Featured Projects
 
-### ⚙️ Machine Learning
-[**Prediction of CNPJ Closures with Public Data**](https://github.com/thallescunhadeoliveira/Previsao-de-Encerramento-de-CNPJ-com-Dados-Publicos)  
-Ongoing project using **Machine Learning classification** to predict CNPJ closures within the first two years, analyzing risk patterns in Brazil with public data from the Federal Revenue Service, IBGE, and other sources.
-
 ### 🤖 Artificial Intelligence
 [**s.mart.ai - Chat with your purchase history**](https://github.com/thallescunhadeoliveira/s.mart.ai)  
 Uses artificial intelligence and natural language processing to interact with purchase data.  
