@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Thalles
 
-I hold a degree in **Psychology from UFSCar** and a degree in **Database Management from Estácio**. Since 2022, I've been working as a **Data Analyst at Azos**, where I focus on automation, data visualization, and supporting decision-making through data insights.
+I hold a degree in Psychology from UFSCar and a degree in Database Management from Estácio. Since 2022, I've been working with Data, gaining experience in data analysis, automation, visualization, and business insights.
 
-Currently, I'm expanding my expertise into Machine Learning and Artificial Intelligence, aiming to transition into Data Science and apply advanced statistical and computational techniques to solve real-world business problems.
+Currently, I'm a Data Scientist, focusing on Machine Learning, data science, and AI to develop models and data-driven solutions for real-world business problems. I'm continuously expanding my expertise in statistical and computational techniques to build more effective and scalable solutions.
 
 
 ## Featured Projects
